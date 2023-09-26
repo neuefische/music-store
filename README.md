@@ -1,4 +1,4 @@
-# help-ukraine
+# muisc-store
 Music Store App
 
 ![alt text](https://github.com/MychajloBear/help-ukraine/blob/main/preview1.png?raw=true)
